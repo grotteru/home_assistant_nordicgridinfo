@@ -1,0 +1,19 @@
+{
+    "config": {
+        "title": "NordicGridInfo",
+        "step": {
+            "user": {
+                "title": "NordicGridInfo sensors",
+                "description": "Set up NordicGridInfo sensors",
+                "data": {
+                    "country": "Country",
+                    "all_prodtypes": "Do you want a sensor for each production type?",
+                    "all_corridors": "Do you want a sensor for each market corridor out of your country?"
+                }
+            }
+        },
+        "error": {
+            "name_exists": "Name already exists"
+        }
+    }
+}
