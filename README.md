@@ -1,7 +1,6 @@
 # Nordic Grid Info integration for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![analytics_badge]
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
 
@@ -11,3 +10,6 @@ This integration fetches "live" data from Statnetts API. Statnett displays these
 ## Installation
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=grotteru&repository=home_assistant_nordicgridinfo&category=integration)
+
+[releases]: https://github.com/grotteru/home_assistant_nordicgridinfo/releases
+[releases-shield]: https://img.shields.io/github/release/grotteru/home_assistant_nordicgridinfo.svg?style=popout
