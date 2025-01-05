@@ -38,7 +38,7 @@ If you have chosen to get sensors for each market corridor out of your country y
 |------|------|-------------|
 | Flow NO1->SE3 | MW | Total export from NO1 towards SE3. Negative value indicates import. The arrow indicates positive flow direction. |
 
-### Example of all sensors if you choose Norway
+### Example of all sensors for Norway
 
 ![example all sensors](doc/all_sensors.png)
 
