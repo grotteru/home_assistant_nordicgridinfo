@@ -1,7 +1,7 @@
 {
   "domain": "nordicgridinfo",
   "name": "NordicGridInfo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "documentation": "https://github.com/grotteru/home_assistant_nordicgridinfo",
   "issue_tracker": "https://github.com/grotteru/home_assistant_nordicgridinfo/issues",  
   "requirements": [],
